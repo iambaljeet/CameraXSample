@@ -10,10 +10,10 @@
 ![Tweet](	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fiambaljeet%2FCameraXSample)
 ![Twitter Follow](https://img.shields.io/twitter/follow/yetanotherdev_?label=Follow&style=social)
 
-**CameraXSample** is an Android application 📱 built using CameraX library and have features like capturng images and recording videos. 📷 📽
+**CameraXSample** is an Android application 📱 built using CameraX library and have features like capturing images and recording videos. 📷 📽
 
 ## About
-. This is a demo application built using CameraX library and have features like capturng images📷 and recording videos 📽
+. This is a demo application built using CameraX library and have features like capturing images📷 and recording videos 📽
 - Clean and Simple UI.
 
 ## Built With 🛠
